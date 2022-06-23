@@ -16,7 +16,7 @@
 </p>
 
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/857822189390135296/989475984338198568/lista-de-tarefas.gif"/>
+    <img src="https://cdn.discordapp.com/attachments/857822189390135296/989486378406535208/piano.gif"/>
 </div>
 
 ---
