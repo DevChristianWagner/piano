@@ -38,12 +38,12 @@ Esse projeto foi construido com o intuito de evoluir e testar meus conhecimentos
    
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="100px" />
 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="100px" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="100px" />
 </div> </br></br>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="15px" /> HTML abreviação para a expressão inglesa HyperText Markup Language, que significa: "Linguagem de Marcação de Hipertexto" é uma linguagem de marcação utilizada na construção de páginas na Web. Documentos HTML podem ser interpretados por navegadores. A tecnologia é fruto da junção entre os padrões HyTime e SGML
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="15px" /> CSS3 é a terceira mais nova versão das famosas Cascading Style Sheets, onde se define estilos para seu projeto web. Com efeitos de transição, imagem, imagem de fundo/Background e outros, que dão um estilo novo e elegante a seus projetos web. Ou em todos os aspectos de design do layout da página.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="15px" /> Sass é uma linguagem de script de pré-processador que é interpretada ou compilada em Cascading Style Sheets.  SassScript é a própria linguagem de script. Sass consiste em duas sintaxes.  A sintaxe original, chamada de "sintaxe recuada", usa uma sintaxe semelhante à Haml.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="15px"/> JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma. Juntamente com HTML e CSS, o JavaScript é uma das três principais tecnologias da World Wide Web. JavaScript permite páginas da Web interativas e, portanto, é uma parte essencial dos aplicativos da web. 
 <div id="pre-req"></div>
